@@ -11,6 +11,8 @@ from umqtt.robust import MQTTClient
 import time
 
 
+# The program is for robot A equiped with a specific item to collect little lego cube and transport it
+
 
 # This program requires LEGO EV3 MicroPython v2.0 or higher.
 # Click "Open user guide" on the EV3 extension tab for more information.
